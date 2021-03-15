@@ -1,4 +1,4 @@
-package com.example.quizg2;
+package com.salgado.quizg2;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         score = (TextView) findViewById(R.id.score);
         question = (TextView) findViewById(R.id.question);
 
-        score.setText("Puntaje: " + mScore);
+        score.setText("Su puntaje es: " + mScore);
 
         updateQuestion(r.nextInt(mQuestionsLenght));
 

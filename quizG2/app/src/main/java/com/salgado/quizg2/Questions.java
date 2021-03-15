@@ -1,4 +1,4 @@
-package com.example.quizg2;
+package com.salgado.quizg2;
 
 public class Questions {
 
