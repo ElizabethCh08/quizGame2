@@ -42,8 +42,4 @@ En el directorio java se crearon las clases respectivamente de cada screen y adi
 
 ![image](https://drive.google.com/uc?export=view&id=1ipcIBB5FCv9lXKJppcDdF7FHqNfYibpd)      
 
-## Entregable Video Youtube
-* [VIDEO](https://youtu.be/F65kchdakDc) - Video demostrativo app, click en la imagen.   
-[![VIDEO](https://img.youtube.com/vi/F65kchdakDc/0.jpg)](https://youtu.be/F65kchdakDc)
-
 ## _GRACIAS POR SU VISITA_ 👌
