@@ -8,7 +8,8 @@ _Se presenta como se realizó la app nativa en Android Studio sobre el proyecto 
 _JUEGO BÁSICO CON LOS COMPONENTES QUIZ-EC_  
 
 ## Una vez creado el proyecto base en Android studio procedemos a crear las clases que la conforman MainActivity.java y Quetions.java.   
-![image](https://drive.google.com/uc?export=view&id=1A32BaEsCHdadoubN6VW_EPDVRyIqfsvd) 
+![image](https://drive.google.com/uc?export=view&id=1A32BaEsCHdadoubN6VW_EPDVRyIqfsvd)   
+
     
 ## Diseño Layout 📃
 ```
@@ -17,7 +18,8 @@ En el diseño de las pantallas se lo realizo con .xml en el directorio layout.
 ```
    
    
- ![image](https://drive.google.com/uc?export=view&id=1z88z1HIjCHUxBHeTslULj3d_m4b80hzt)
+ ![image](https://drive.google.com/uc?export=view&id=1z88z1HIjCHUxBHeTslULj3d_m4b80hzt)   
+ 
 
 ## Creación de funciones✏️
 En el directorio java se crearon las clases respectivamente de cada screen y adicional la clase _Quetions_ que contiene las funciones.   
@@ -28,19 +30,19 @@ En el directorio java se crearon las clases respectivamente de cada screen y adi
 ```
 *Función con arreglo de opciones y respuestas.   
 ```   
-![image](https://drive.google.com/uc?export=view&id=1owRKZfCtsUFcMpWbpr3eLxuFj_Kvp9ko)
 
+![image](https://drive.google.com/uc?export=view&id=1owRKZfCtsUFcMpWbpr3eLxuFj_Kvp9ko)   
 
 
 ### Variables utilizadas:   
+
 ![image](https://drive.google.com/uc?export=view&id=1xzL8vw-jyNf8t4AEybGZfCVyRG_UIPA0)   
 
- 
 
 ## Test de ejecución ✅
 ### Pantalla principal   
 
-![image](https://drive.google.com/uc?export=view&id=1ipcIBB5FCv9lXKJppcDdF7FHqNfYibpd)      
+![image](https://drive.google.com/uc?export=view&id=1ipcIBB5FCv9lXKJppcDdF7FHqNfYibpd)   
 
 
 ## Entregable Video Youtube   
