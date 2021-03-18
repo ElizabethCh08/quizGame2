@@ -3,10 +3,12 @@
 ```
 * Karla Chinacalle
 * Gabriel Salgado
-```
+```   
+![image](https://drive.google.com/uc?export=view&id=1xRze7yLHRYyotcPKgCBa9gW1bN7WHVib)   
+
 _Se presenta como se realizó la app nativa en Android Studio sobre el proyecto final de la Materia de Tópicos Espciales._   
 _JUEGO BÁSICO CON LOS COMPONENTES QUIZ-EC_  
-
+  
 ## Una vez creado el proyecto base en Android studio procedemos a crear las clases que la conforman MainActivity.java y Quetions.java.   
 ![image](https://drive.google.com/uc?export=view&id=1A32BaEsCHdadoubN6VW_EPDVRyIqfsvd)   
 
